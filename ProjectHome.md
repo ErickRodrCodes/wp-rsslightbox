@@ -1,0 +1,1 @@
+it reads photobucket albums rss and retrieve it to a lightbox
